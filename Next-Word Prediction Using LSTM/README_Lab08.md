@@ -1,15 +1,5 @@
 # Next-Word Prediction Using LSTM on Shakespeare's Hamlet
 
-## Suggested Project Titles
-1. **Next-Word Prediction Using LSTM on Shakespeare's Hamlet** (recommended)
-2. Shakespeare Text Generation Using Recurrent Neural Networks
-3. Hamlet Language Modeling with LSTM
-4. Next-Word Prediction Using Deep Learning
-5. Shakespearean Text Generation Using TensorFlow
-6. Natural Language Generation Using LSTM Networks
-7. Word Sequence Modeling on Shakespeare's Hamlet
-8. Predictive Text Generation Using an LSTM Language Model
-
 ## Overview
 This project trains an LSTM-based language model on the text of Shakespeare's *Hamlet*. It tokenizes the text, creates n-gram sequences, and learns to predict the next word from preceding words. The notebook then generates text by repeatedly predicting and appending the next word to a seed phrase.
 
