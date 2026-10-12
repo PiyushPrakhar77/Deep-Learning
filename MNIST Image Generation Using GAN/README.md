@@ -1,15 +1,5 @@
 # Fashion-MNIST Image Generation Using a GAN
 
-## Suggested Project Titles
-1. **Fashion-MNIST Image Generation Using a Generative Adversarial Network (GAN)** (recommended)
-2. Generating Fashion Images with Deep Learning
-3. GAN-Based Clothing Image Generation
-4. Synthetic Fashion Image Generation Using TensorFlow
-5. Deep Convolutional GAN for Fashion-MNIST
-6. Generative Modeling of Fashion Items
-7. Fashion Image Synthesis Using a Generator–Discriminator Network
-8. Unsupervised Fashion Image Generation with GANs
-
 ## Overview
 This project implements a Generative Adversarial Network (GAN) that learns to generate synthetic grayscale fashion-item images using the Fashion-MNIST dataset. The GAN consists of a generator that creates images from random noise and a discriminator that distinguishes real images from generated images.
 
