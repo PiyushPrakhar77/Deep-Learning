@@ -1,0 +1,7 @@
+torch==2.5.1
+transformers==4.46.3
+datasets==3.1.0
+peft==0.13.2
+bitsandbytes==0.44.1
+accelerate==1.1.1
+matplotlib==3.9.2
