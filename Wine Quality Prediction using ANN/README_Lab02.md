@@ -1,7 +1,7 @@
 # Wine Quality Classification
 
 ## Overview
-This lab explores the white wine quality dataset and builds a neural network to classify wine quality categories. The notebook includes data exploration, visualization, preprocessing, model training, and evaluation.
+This code explores the white wine quality dataset and builds a neural network to classify wine quality categories. The notebook includes data exploration, visualization, preprocessing, model training, and evaluation.
 
 ## Dataset
 The lab uses the wine quality CSV files:
