@@ -1,7 +1,4 @@
-# Lab 12: Pet Image Generation with a DDPM
-
-## Project title
-**Pet Image Generation Using Diffusion Models**
+# Pet Image Generation with a DDPM
 
 ## Overview
 This notebook builds a simple Denoising Diffusion Probabilistic Model (DDPM) in PyTorch to generate pet images. It uses a custom U-Net to predict the noise added to images at different diffusion timesteps.
@@ -39,7 +36,7 @@ This notebook builds a simple Denoising Diffusion Probabilistic Model (DDPM) in 
 10. Compare generated samples with real images and save outputs.
 
 ## Run the notebook
-1. Open `model_design_Lab12.ipynb` in Google Colab or a Jupyter environment.
+1. Open `model.ipynb` in Google Colab or a Jupyter environment.
 2. Install the packages listed in `requirements.txt`.
 3. Run the notebook cells in order.
 4. Ensure internet access is available for downloading the dataset.
