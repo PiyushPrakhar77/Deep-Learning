@@ -1,16 +1,4 @@
-# Adversarial Robustness of CNNs on CIFAR-10
-
-## Suggested Project Titles
-1. **Evaluating CNN Robustness Against Adversarial Attacks on CIFAR-10** (recommended)
-2. CIFAR-10 Image Classification Under Adversarial Attacks
-3. Adversarial Image Attacks: FGSM, BIM, and PGD
-4. Robustness Analysis of Convolutional Neural Networks
-5. Adversarial Examples and CNN Classification on CIFAR-10
-6. Comparing FGSM, BIM, and PGD Attacks on Image Classifiers
-7. Deep Learning Security: Adversarial Attacks on CIFAR-10
-8. Evaluating Image Classifier Performance on Clean and Perturbed Images
-9. Adversarial Robustness Testing Using TensorFlow
-10. Impact of Gradient-Based Attacks on CNN Image Classification
+# Comparing FGSM, BIM, and PGD Attacks on CNNs using CIFAR-10 dataset
 
 ## Overview
 This project trains a Convolutional Neural Network (CNN) on CIFAR-10 and evaluates its performance on both clean images and adversarially perturbed images. It implements three gradient-based attacks: Fast Gradient Sign Method (FGSM), Basic Iterative Method (BIM), and Projected Gradient Descent (PGD).
