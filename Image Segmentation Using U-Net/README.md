@@ -1,13 +1,5 @@
 # Oxford-IIIT Pet Image Segmentation Using U-Net
 
-## Suggested Project Titles
-1. **Pet Image Segmentation Using U-Net** (recommended)
-2. Oxford-IIIT Pet Segmentation with Deep Learning
-3. Semantic Segmentation of Pet Images Using CNN
-4. U-Net-Based Animal Image Segmentation
-5. Pixel-Level Pet Segmentation Using TensorFlow
-6. Deep Learning for Pet Foreground Segmentation
-
 ## Overview
 This notebook builds a U-Net convolutional neural network to perform pixel-level segmentation on images from the Oxford-IIIT Pet dataset. The model predicts a segmentation class for each pixel rather than assigning one label to the whole image.
 
