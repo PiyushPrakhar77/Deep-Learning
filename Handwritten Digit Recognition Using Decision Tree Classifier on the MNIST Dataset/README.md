@@ -11,6 +11,7 @@ This projrct uses a Decision Tree Classifier to recognize handwritten digits (0â
 - Classes: digits 0â€“9
 
 ## Workflow
+pip install -r requirements.txt :- use this to install all requirements 
 1. Load the MNIST dataset.
 2. Inspect the dataset dimensions and labels.
 3. Visualize sample handwritten digits.
