@@ -1,17 +1,5 @@
 # English-to-French Neural Machine Translation with Attention
 
-## Suggested Project Titles
-1. **English-to-French Translation Using LSTM and Attention Mechanisms** (recommended)
-2. Neural Machine Translation with Soft, Luong, and Cross-Attention
-3. Sequence-to-Sequence English–French Translation Using Deep Learning
-4. Comparing Attention Mechanisms for Machine Translation
-5. English-to-French Translation Using Encoder–Decoder Networks
-6. Attention-Based Language Translation Using TensorFlow
-7. LSTM-Based Machine Translation with Attention
-8. Deep Learning for English–French Sentence Translation
-9. A Comparative Study of Attention Mechanisms in Neural Translation
-10. English–French Translation Using Additive and Multi-Head Attention
-
 ## Overview
 This notebook builds sequence-to-sequence models to translate English sentences into French. It uses an LSTM encoder and decoder and compares three attention approaches: additive attention, Luong-style dot-product attention, and multi-head cross-attention.
 
@@ -41,10 +29,10 @@ The notebook loads `eng_-french.csv` from `/content/` and renames its two column
 - Attention variants: additive, Luong dot-product, and multi-head cross-attention (`num_heads=4`)
 
 ## Requirements
-Install the packages listed in `requirements_Lab09.txt`:
+Install the packages listed in `requirements.txt`:
 
 ```bash
-pip install -r requirements_Lab09.txt
+pip install -r requirements.txt
 ```
 
 ## How to Run
