@@ -1,17 +1,5 @@
 # CIFAR-10 Image Classification Using Vision Transformer (ViT)
 
-## Suggested Project Titles
-1. **CIFAR-10 Image Classification Using Vision Transformer (ViT)** (recommended)
-2. Transfer Learning for Image Classification Using ViT
-3. Fine-Tuning a Pretrained Vision Transformer on CIFAR-10
-4. Deep Learning-Based Object Recognition with Vision Transformers
-5. CIFAR-10 Classification Using Hugging Face Transformers and PyTorch
-6. Image Recognition Using Pretrained Vision Transformer Models
-7. Transformer-Based Image Classification with Transfer Learning
-8. Comparative Analysis of Vision Transformers for Image Recognition
-9. Vision Transformer Fine-Tuning for 10-Class Image Recognition
-10. CIFAR-10 Object Classification Using ViT and PyTorch
-
 ## Overview
 This notebook fine-tunes a pretrained Vision Transformer (ViT) for 10-class image classification on CIFAR-10. The pretrained checkpoint is `google/vit-base-patch16-224-in21k`, loaded through Hugging Face Transformers. Images are resized to 224 × 224 and normalized using ImageNet mean and standard deviation.
 
@@ -48,12 +36,12 @@ CIFAR-10 is downloaded automatically using `torchvision.datasets.CIFAR10`.
 Install dependencies using:
 
 ```bash
-pip install -r requirements_Lab10.txt
+pip install -r requirements.txt
 ```
 
 ## How to Run
 1. Open the notebook in Google Colab or a compatible Python environment.
-2. Install the packages listed in `requirements_Lab10.txt`.
+2. Install the packages listed in `requirements.txt`.
 3. Run the notebook cells from top to bottom.
 4. The CIFAR-10 dataset and pretrained ViT weights are downloaded automatically, so internet access is needed on the first run.
 
