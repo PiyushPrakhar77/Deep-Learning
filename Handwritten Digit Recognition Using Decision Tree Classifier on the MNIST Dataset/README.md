@@ -1,7 +1,7 @@
 # MNIST Digit Recognition
 
 ## Overview
-This lab uses a Decision Tree Classifier to recognize handwritten digits (0–9) from the MNIST dataset.
+This projrct uses a Decision Tree Classifier to recognize handwritten digits (0–9) from the MNIST dataset.
 
 ## Dataset
 - Dataset: `mnist_784` loaded with Scikit-learn's `fetch_openml()`
@@ -38,7 +38,7 @@ This lab uses a Decision Tree Classifier to recognize handwritten digits (0–9)
 The uploaded lab output reports an accuracy of approximately **88.02%**.
 
 ## How to Run
-1. Download `S25MCAG0109_Lab01_with_outputs.ipynb`.
+1. Download `code.ipynb`.
 2. Open [Google Colab](https://colab.research.google.com/).
 3. Choose **File → Upload notebook** and upload the notebook.
 4. Run the cells from top to bottom. The dataset may need to be downloaded from OpenML.
